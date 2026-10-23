@@ -1,0 +1,4 @@
+Redirect 301 /bac_002.htm /services.html
+Redirect 301 /bac_003.htm /infrastructure.html
+Redirect 301 /bac_004.htm /info.html
+ErrorDocument 404 /404.html

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mirar123.github.io/my-website-v2/sitemap.xml
+Sitemap: https://www.bacipl.com/sitemap.xml
